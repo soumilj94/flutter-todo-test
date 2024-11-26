@@ -11,6 +11,6 @@
 
 ### Video Demo
 <p align="center">
-  <iframe width="150" src="https://github.com/soumilj94/flutter-todo-test/blob/main/demo/app_video_demo.mp4" frameborder="0" allowfullscreen></iframe>
+  <iframe width="150" src="https://github.com/soumilj94/flutter-todo-test/blob/main/demo/app_video_demo.mp4"></iframe>
 </p>
 
