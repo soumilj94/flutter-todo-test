@@ -1,5 +1,6 @@
 # Todo app made in flutter (assignment)
 ### App Screenshots
+<p>Home Screen, Add todo, delete todo, edit todo, todo status</p>
 <p align="center">
   <img src="https://github.com/soumilj94/flutter-todo-test/blob/main/demo/home_screen.jpg" alt="Image 1" width="150" />
   <img src="https://github.com/soumilj94/flutter-todo-test/blob/main/demo/add_todo.jpg" alt="Image 2" width="150" />
