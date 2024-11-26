@@ -10,4 +10,5 @@
 </p>
 
 ### Video Demo
+<p>Click below to view the video</p>
 [![Watch the video](https://github.com/soumilj94/flutter-todo-test/blob/main/demo/home_screen.jpg)](https://drive.google.com/file/d/18RXwetQYH6e8-JVsybvzY_XXJdlPSjuh/view?usp=sharing)
