@@ -10,7 +10,4 @@
 </p>
 
 ### Video Demo
-<p align="center">
-  <iframe width="150" src="[https://github.com/soumilj94/flutter-todo-test/blob/main/demo/app_video_demo.mp4](https://github.com/soumilj94/flutter-todo-test/blob/main/demo/app_video_demo.mp4)"></iframe>
-</p>
 
