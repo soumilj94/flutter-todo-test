@@ -9,3 +9,8 @@
   <img src="https://github.com/soumilj94/flutter-todo-test/blob/main/demo/todo_status.jpg" alt="Image 5" width="150" />
 </p>
 
+### Video Demo
+<p align="center">
+  <iframe width="150" src="https://github.com/soumilj94/flutter-todo-test/blob/main/demo/app_video_demo.mp4" frameborder="0" allowfullscreen></iframe>
+</p>
+
